@@ -20,4 +20,5 @@ An optocoupler for uC to keypad communication and a resistor divider for keypad 
 The uC transmit is currently set for GPIO5 and uC receive is set for GPIO4.  These are declared in KeypadSerial.h.
 
 <img width="792" height="678" alt="ECP2MQTT wiring" src="https://github.com/user-attachments/assets/31d3f7cb-f48b-401e-b3a7-d7d3bfd983ba" />
+
 Circuit diagram to connect uC to the keypad terminals
