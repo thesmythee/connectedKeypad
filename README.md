@@ -1,6 +1,8 @@
 # ECP2MQTT
 Connecting Ademco keypads to MQTT systems.
 
+This implementation is based on work by https://github.com/TomVickers/Arduino2keypad/tree/master.  
+
 The purpose of this is to be able to use Honeywell Ademco alarm keypads with the Home Assistant alarm control panel integration.  Honeywell keypad models 6150 and 6160 can be used with this code.  The 6150 is a fixed message display and the 6160 is a 2x16 character alphanumeric display.
 
 This is set up to use Home Assistant integration Manual MQTT Alarm Control Panel.
